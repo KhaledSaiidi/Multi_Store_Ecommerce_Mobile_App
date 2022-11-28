@@ -14,4 +14,4 @@ notifications and services.
     * Order management 
     * Search management
     * Payment management
-    * Dashboard management
+    * Dashboard management	
